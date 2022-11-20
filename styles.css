@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+h1{
+    text-align: center;
+}
+.question{
+
+    color: #3cb307;
+    font-weight: bold;
+}
+.answer{
+    color: #ff0066;
+    font-weight: 500;
+}
